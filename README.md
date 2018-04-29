@@ -8,19 +8,23 @@
 
 また、マイナビさんなど多くのメディアに取り上げられ、話題となりました。
 
-![マイナビさんに取材していただいたときの写真](https://github.com/OSSLabo/opensource-ramen/blob/master/image/mynavi.jpg)<br>
+[![マイナビさんに取材していただいたときの写真](https://github.com/OSSLabo/opensource-ramen/blob/master/image/mynavi.jpg)](https://news.mynavi.jp/article/20080528-a020/)<br>
 https://news.mynavi.jp/article/20080528-a020/ から引用
 
 # ニコニコ超会議でも作られたオープンソース焼きそば
 2016年にはドワンゴのエンジニアによってもオープンソース焼きそばが開発され、ニコニコ超会議で発表されました。
-（ちなみにこのプロジェクトはオープンソース活用研究所との関連はありません）
 
-![ドワンゴエンジニアによるオープンソース焼きそば](https://raw.githubusercontent.com/OSSLabo/opensource-ramen/master/image/nlab.jpg)<br>
+[![ドワンゴエンジニアによるオープンソース焼きそば](https://raw.githubusercontent.com/OSSLabo/opensource-ramen/master/image/nlab.jpg)](http://nlab.itmedia.co.jp/nl/articles/1603/24/news154.htm)<br>
 http://nlab.itmedia.co.jp/nl/articles/1603/24/news154.htm から引用
 
+また、サイオスさんが「オープンソース"ソイ"ソース」という醤油のノベルティを開発するなど、オープンソース焼きそばはその後の「オープンソースダジャレ系ノベルティ」に影響を与えてきました。
+
+[![オープンソイソース](https://www.sios.com/news/img/161107_report_osc16tokyofall_1305_rt_2.png)](https://www.sios.com/news/20161114-osc2016-tokyofall.html)<br>
+https://www.sios.com/news/20161114-osc2016-tokyofall.html から引用
+
 # オープンソース焼きそば 10周年
-ことしは、オープンソース焼きそばが誕生して10周年です。
-「オープンソース活用研究所としては10周年を記念して何かしなければならない」と考え、スタッフと検討を重ねてきました。
+ことしは、我々が2008年にオープンソース焼きそばを開発してからちょうど10周年です。
+オープンソース活用研究所としては「10周年を記念して何かしなければならない」と考え、スタッフと検討を重ねてきました。
 
 # オープンソースラーメン開発プロジェクト
 激しい議論の末、決まったのが「オープンソースラーメン」。我々はこれを開発することに決めました。
