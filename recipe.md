@@ -8,6 +8,12 @@
 味は、しょうゆかシーフードがおすすめです。
 しかし、他の味もぜひお試しください。
 <br>
+<br>
 （しょうゆ）<br>
-[<img width="150" src="https://cdn.nissin.com/image?id=8506&s=720">](https://www.nissin.com/jp/products/items/8506)
+[![](https://cdn.nissin.com/image?id=8506&s=150)](https://www.nissin.com/jp/products/items/8506)<br>
 https://www.nissin.com/jp/products/items/8506 より引用
+
+（シーフード）<br>
+[![](https://cdn.nissin.com/image?id=8649&s=150)](https://www.nissin.com/jp/products/items/8649)<br>
+https://www.nissin.com/jp/products/items/8649 より引用
+
