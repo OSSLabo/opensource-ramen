@@ -81,9 +81,11 @@ https://www.amazon.co.jp/dp/B004WHT0DA/<br>
 もちろん、オリジナルのシールを作っていただいてもOKです！<br>
 <br>
 ・ラベル部分<br>
+![](https://raw.githubusercontent.com/OSSLabo/opensource-ramen/master/image/seal1-image.png)<br>
 https://github.com/OSSLabo/opensource-ramen/blob/master/seal/Seal_single_80%C3%9780_ol.ai<br>
 <br>
 ・ソースを止めるテープ部分<br>
+![](https://raw.githubusercontent.com/OSSLabo/opensource-ramen/master/image/seal2-image.png)<br>
 https://github.com/OSSLabo/opensource-ramen/blob/master/seal/Seal_single_15%C3%97150_02_ol.ai<br>
 
 ## 手順４：シールを印刷する
