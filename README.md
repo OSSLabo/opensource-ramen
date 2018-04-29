@@ -9,6 +9,5 @@
 
 また、マイナビさんなど多くのメディアに取り上げられました。
 
-![マイナビさんに取材していただいたときの写真](https://news.mynavi.jp/photo/article/20080528-a020/images/003l.jpg)
+![マイナビさんに取材していただいたときの写真](https://github.com/OSSLabo/opensource-ramen/blob/master/image/mynavi.jpg)
 
-https://news.mynavi.jp/article/20080528-a020/
