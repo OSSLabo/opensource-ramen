@@ -4,9 +4,10 @@
 
 # ご自宅で召し上がる場合
 ## 材料
-### 日清カップヌードル
-味は、しょうゆかシーフードがおすすめです。
-しかし、他の味もぜひお試しください。
+### （１）カップラーメン
+日清カップヌードルのしょうゆかシーフードがおすすめです。
+しかし、他のカップラーメンもぜひお試しください。
+たとえば、ちゃんぽん麺などとの相性もGoodです。
 <br>
 <br>
 （しょうゆ）<br>
@@ -17,3 +18,9 @@ https://www.nissin.com/jp/products/items/8506 より引用
 [![](https://cdn.nissin.com/image?id=8649&s=150)](https://www.nissin.com/jp/products/items/8649)<br>
 https://www.nissin.com/jp/products/items/8649 より引用
 
+### （２）ウスターソース
+我々がつかったのは、ブルドックソースのウスターソースです。
+しかしこれもいろいろ試していただければと思います。
+<br>
+<br>
+![](https://www.bulldog.co.jp/common/upload/product/20170124164122_1485243682608.jpg)
