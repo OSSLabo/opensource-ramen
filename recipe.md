@@ -71,5 +71,11 @@ https://www.amazon.co.jp/dp/B0048B2Y9W/<br>
 
 
 ### （２）ウスターソース
+我々が使ったウスターソースはこちらです。
+<br>
+<br>
+・カゴメ)醸熟ウスターソースミニパック　8g×40個入<br>
+https://www.amazon.co.jp/dp/B004WHT0DA/<br>
+
 ### （３）シール
 
