@@ -103,7 +103,7 @@ http://www.adprint.jp/<br>
 50社以上のクライアント企業に対して、年間約300回のセミナーを開催し、売上拡大／新規見込客獲得に貢献しています。
 
 ## オープンソース活用研究所 Webサイト
-https://osslab.com
+https://osslabo.com
 
 ## 開催しているセミナーについて
 https://majisemi.com
