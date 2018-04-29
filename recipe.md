@@ -12,7 +12,7 @@
 <br>
 （しょうゆ）<br>
 [![](https://cdn.nissin.com/image?id=8506&s=200)](https://www.nissin.com/jp/products/items/8506)<br>
-https://www.nissin.com/jp/products/items/8506 より引用
+  https://www.nissin.com/jp/products/items/8506 より引用
 
 （シーフード）<br>
 [![](https://cdn.nissin.com/image?id=8649&s=200)](https://www.nissin.com/jp/products/items/8649)<br>
@@ -23,7 +23,35 @@ https://www.nissin.com/jp/products/items/8649 より引用
 しかしこれもいろいろ試していただければと思います。
 <br>
 <br>
-![](https://www.bulldog.co.jp/common/upload/product/20170124164122_1485243682608.jpg)
+![](https://www.bulldog.co.jp/common/upload/product/20170124164122_1485243682608.jpg)<br>
 https://www.bulldog.co.jp/products/home/item0101_300ml.html より引用
 
-### 
+### （３）バター（オプション）
+### （４）黒コショウ
+
+## 手順１：お湯をわかす
+カップラーメンの作成手順に従って、お湯を沸かします。
+
+## 手順２：カップラーメンにお湯を入れる
+カップラーメンにお湯を入れます。
+
+## 手順３：３分待つ
+カップラーメンによっては、待つ時間が異なりますのでご注意ください。
+
+## 手順４：ウスターソースを入れる
+日清カップヌードルの普通サイズ（77g）の場合、ウスターソースの量は大さじ1杯（15cc）くらいが適量です。
+これもお好みで調整してください。
+
+## 手順５：よく混ぜる
+よく混ぜて、完成です。
+召し上がってください！
+
+## 手順６：お好みで、バター、黒コショウを入れる
+お好みで、バターや黒コショウを入れていただくと、より一層おいしく召し上がれます。
+その他、相性のよいトッピングなどありましたら、ぜひご連絡ください。
+
+## 手順７：感動する
+「以外と美味しい！」をぜひ実感してください。
+
+## 手順８：SNSでシェアする
+FacebookやTwitterなどで、ぜひお友達にこの感動を教えてあげてください！
