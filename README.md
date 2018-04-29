@@ -12,11 +12,11 @@
 https://news.mynavi.jp/article/20080528-a020/ から引用
 
 # ニコニコ超会議でも作られたオープンソース焼きそば
-2016年にはニコニコ超会議でもオープンソース焼きそばが開発されました。
+2016年にはドワンゴのエンジニアによってもオープンソース焼きそばが開発され、ニコニコ超会議で発表されました。
 （ちなみにこのプロジェクトはオープンソース活用研究所との関連はありません）
 
-![マイナビさんに取材していただいたときの写真](https://github.com/OSSLabo/opensource-ramen/blob/master/image/mynavi.jpg)<br>
-https://news.mynavi.jp/article/20080528-a020/ から引用
+![ドワンゴエンジニアによるオープンソース焼きそば](https://raw.githubusercontent.com/OSSLabo/opensource-ramen/master/image/nlab.jpg)<br>
+http://nlab.itmedia.co.jp/nl/articles/1603/24/news154.htm から引用
 
 # オープンソース焼きそば 10周年
 ことしは、オープンソース焼きそばが誕生して10周年です。
