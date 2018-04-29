@@ -82,3 +82,7 @@ https://www.sios.com/news/20161114-osc2016-tokyofall.html から引用
 2018/5/9 - 11 に東京ビッグサイトで開催される、Japan IT Week でオープンソースラーメンを配布します。
 
 みなさん、ぜひビックサイトに来てください！
+
+# レシピ公開
+オープンソースラーメンのレシピを公開しています。ぜひ皆さんでも作ってください！<br>
+https://github.com/OSSLabo/opensource-ramen/blob/master/recipe.md
