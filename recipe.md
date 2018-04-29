@@ -98,3 +98,16 @@ http://www.adprint.jp/<br>
 
 ![](https://raw.githubusercontent.com/OSSLabo/opensource-ramen/master/image/oss-ramen.jpg)
 
+# オープンソース活用研究所について
+オープンソース活用研究所は、IT企業の売上拡大／新規見込客獲得を目的としたセミナー支援サービス「マジセミ」を提供している会社です。
+50社以上のクライアント企業に対して、年間約300回のセミナーを開催し、売上拡大／新規見込客獲得に貢献しています。
+
+## オープンソース活用研究所 Webサイト
+https://osslab.com
+
+## 開催しているセミナーについて
+https://majisemi.com
+
+## セミナー開催についてのご連絡先
+https://osslabo.com/#contact
+
