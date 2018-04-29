@@ -49,5 +49,9 @@ https://www.sios.com/news/20161114-osc2016-tokyofall.html から引用
 
 # 本格的に、オープンソースラーメンの開発を開始
 
+イベントでの配布を目的としているため、カップラーメンがベースとなります。
+我々は、ベースとなるカップラーメンを多数入手、またウスターソースやトッピングなども入手しました。
+
+![プロジェクトスタート](https://raw.githubusercontent.com/OSSLabo/opensource-ramen/master/image/project-start.jpg)
 
 
