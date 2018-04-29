@@ -67,4 +67,14 @@ https://www.sios.com/news/20161114-osc2016-tokyofall.html から引用
 
 ![オープンソースラーメン](https://raw.githubusercontent.com/OSSLabo/opensource-ramen/master/image/oss-ramen.jpg)
 
+# 6,000個を開発
+今回、我々はオープンソースラーメンを6,000個 量産します。
 
+これは、オープンソース活用研究所のオフィスに積んであるカップヌードルです。
+このGW中に、我々のスタッフ総出で、これをベースにオープンソースラーメンを開発していきます。
+
+![6000個のカップヌードル](https://raw.githubusercontent.com/OSSLabo/opensource-ramen/master/image/6000.jpg)
+
+2018/5/9 - 11 に東京ビッグサイトで開催される、Japan IT Week でオープンソースラーメンを配布します。
+
+みなさん、ぜひビックサイトに来てください！
