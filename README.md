@@ -65,6 +65,6 @@ https://www.sios.com/news/20161114-osc2016-tokyofall.html から引用
 専用のパッケージ（シール）も作成。
 完成したオープンソースラーメンがこちらです。
 
-
+![オープンソースラーメン](https://raw.githubusercontent.com/OSSLabo/opensource-ramen/master/image/oss-ramen.jpg)
 
 
