@@ -86,5 +86,7 @@ https://www.amazon.co.jp/dp/B004WHT0DA/<br>
 http://www.adprint.jp/<br>
 
 ## 手順５：カップラーメンにシールをはる
+こんな感じでシールをはれば、完成です！<br>
 
+![](https://raw.githubusercontent.com/OSSLabo/opensource-ramen/master/image/oss-ramen.jpg)
 
