@@ -9,5 +9,6 @@
 しかし、他の味もぜひお試しください。
 <br>
 （しょうゆ）
-![](https://cdn.nissin.com/image?id=8506&s=720)
+<img width="100" src="https://cdn.nissin.com/image?id=8506&s=720">
+
 https://www.nissin.com/jp/products/items/8506
