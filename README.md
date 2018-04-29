@@ -37,6 +37,17 @@ https://www.sios.com/news/20161114-osc2016-tokyofall.html から引用
 我々が訪ねたのが、船橋の「阿修羅」さん。
 ここでソースラーメンをいただいてきました。
 
+![阿修羅さんのソースラーメン](https://raw.githubusercontent.com/OSSLabo/opensource-ramen/master/image/funabashi-sauce-ramen.jpg)
+
+# はたしてお味は・・・
+「う、、、うまい！！」
+
+一見、ラーメンとソースって合わないと思うじゃないですか。
+ところが、、、これがうまい！！
+
+我々はこの味を再現するべく、本格的な開発に着手しました。
+
+# 本格的に、オープンソースラーメンの開発を開始
 
 
 
