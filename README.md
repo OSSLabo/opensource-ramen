@@ -2,6 +2,9 @@
 [![Open Source Yakisoba and Ramen(オープンソース焼きそばとオープンソースラーメン)](http://img.youtube.com/vi/70fv7SQ5NkM/0.jpg)](http://www.youtube.com/watch?v=70fv7SQ5NkM)<br>
 オープンソース焼きそばとオープンソースラーメンにつて解説した動画
 
+# オープンソースラーメン、試食してみました！
+[![オープンソースラーメン、試食してみました！)](http://img.youtube.com/vi/ZjWQEiVPDro/0.jpg)](http://www.youtube.com/watch?v=ZjWQEiVPDro)<br>
+
 # レシピ公開
 オープンソースラーメンのレシピを公開しています。<br>
 https://github.com/OSSLabo/opensource-ramen/blob/master/recipe.md
