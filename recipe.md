@@ -84,7 +84,7 @@ https://www.amazon.co.jp/dp/B004WHT0DA/<br>
 <br>
 ・ラベル部分<br>
 ![](https://raw.githubusercontent.com/OSSLabo/opensource-ramen/master/image/seal1-image.png)<br>
-https://github.com/OSSLabo/opensource-ramen/blob/master/seal/Seal_single_80%C3%9780_ol.ai<br>
+https://github.com/OSSLabo/opensource-ramen/blob/master/seal/Seal_single_80×80_ol.ai<br>
 <br>
 ・ソースを止めるテープ部分<br>
 ![](https://raw.githubusercontent.com/OSSLabo/opensource-ramen/master/image/seal2-image.png)<br>
